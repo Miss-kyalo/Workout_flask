@@ -5,7 +5,7 @@ Each workout can include multiple exercises with set, rep, or duration details.
 
 ## Requirements
 
-- Python 3.8 or newer
+- Python 3.12 (the version used to create and test the environment)
 - Pipenv
 
 ## Install
